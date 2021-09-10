@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",少儿频道
+http://124.232.231.246:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",少儿频道
+http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8
+#EXTINF:-1 tvg-id="优漫卡通"" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",少儿频道
+http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",少儿频道
+http://39.134.155.185/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",少儿频道
+http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",少儿频道
+http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
