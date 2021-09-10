@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "解析线路1",
+      "ad": "no",
+      "url": "https://api.jhdyw.vip/?url="
+    },
+    {
+      "id": 2,
+      "name": "解析线路2",
+      "ad": "no",
+      "url": "http://tv.zxzyw.xyz/8090/?url="
+    },
+    {
+      "id": 3,
+      "name": "解析线路3",
+      "ad": "no",
+      "url": "http://jx.sujx.top/jiexi.php/?url="
+    },
+    {
+      "id": 4,
+      "name": "解析线路4",
+      "ad": "no",
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "id": 5,
+      "name": "解析线路5",
+      "ad": "no",
+      "url": "https://okjx.cc/?url=="
+    },
+    {
+      "id": 6,
+      "name": "解析线路6",
+      "ad": "no",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "id": 7,
+      "name": "解析线路7",
+      "ad": "no",
+      "url": "http://api.3jx.top/vip/?url="
+    }
+  ]
+}
