@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "CCTV央视",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "pic": "",
       "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuyingTV@master/TV/yangshi.txt",
       "type": "txt",
       "subTitle": "",
@@ -18,7 +18,7 @@
     },
     {
       "name": "地方卫视",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "pic": "",
       "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuyingTV@master/TV/weishi.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -34,7 +34,7 @@
     },
     {
       "name": "少儿频道",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "pic": "",
       "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuyingTV@master/TV/shaoer.m3u",
       "type": "m3u",
       "subTitle": "",
@@ -50,7 +50,7 @@
     },
     {
       "name": "24小时轮播",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "pic": "",
       "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuyingTV@master/TV/zhibo.m3u",
       "type": "m3u",
       "subTitle": "",
