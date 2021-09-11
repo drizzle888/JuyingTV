@@ -3,7 +3,7 @@
     {
       "name": "CCTV央视",
       "pic": "",
-      "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuYingTV@master/TV/yangshi.txt",
+      "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/yangshi.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -19,7 +19,7 @@
     {
       "name": "地方卫视",
       "pic": "",
-      "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuYingTV@master/TV/weishi.m3u",
+      "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/weishi.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -35,7 +35,7 @@
     {
       "name": "少儿频道",
       "pic": "",
-      "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuYingTV@master/TV/shaoer.m3u",
+      "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/shaoer.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
@@ -51,7 +51,7 @@
     {
       "name": "24小时轮播",
       "pic": "",
-      "webUrl": "https://cdn.jsdelivr.net/gh/Qmyr/JuYingTV@master/TV/zhibo.m3u",
+      "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/zhibo.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
