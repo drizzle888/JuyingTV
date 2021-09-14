@@ -18,7 +18,7 @@
     },
     {
       "name": "地方卫视",
-      "pic": "",
+      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/DIFANGWEISHI.png",
       "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/weishi.m3u",
       "type": "m3u",
       "subTitle": "资源持续收集中",
@@ -34,7 +34,7 @@
     },
     {
       "name": "少儿频道",
-      "pic": "",
+      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/SHAOERPINDAO.png",
       "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/shaoer.m3u",
       "type": "m3u",
       "subTitle": "资源持续收集中",
@@ -50,7 +50,7 @@
     },
     {
       "name": "24小时轮播",
-      "pic": "",
+      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/LUNBO.png",
       "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/zhibo.m3u",
       "type": "m3u",
       "subTitle": "资源持续收集中",
