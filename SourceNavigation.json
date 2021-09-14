@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "CCTV央视",
-      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/CCTV.png",
+      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/ZYDSPD.png",
       "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/yangshi.m3u",
       "type": "m3u",
       "subTitle": "资源持续收集中",
@@ -18,7 +18,7 @@
     },
     {
       "name": "地方卫视",
-      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/DIFANGWEISHI.png",
+      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/DFWS.png",
       "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/weishi.m3u",
       "type": "m3u",
       "subTitle": "资源持续收集中",
@@ -34,7 +34,7 @@
     },
     {
       "name": "少儿频道",
-      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/SHAOERPINDAO.png",
+      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/SEPD.png",
       "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/shaoer.m3u",
       "type": "m3u",
       "subTitle": "资源持续收集中",
