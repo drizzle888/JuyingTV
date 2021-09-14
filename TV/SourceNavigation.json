@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "CCTV央视",
-      "pic": "",
+      "pic": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Images/CCTV.png",
       "webUrl": "https://qmyr.coding.net/p/juyingtv/d/JuYingTV/git/raw/master/Live/yangshi.m3u",
       "type": "m3u",
       "subTitle": "资源持续收集中",
